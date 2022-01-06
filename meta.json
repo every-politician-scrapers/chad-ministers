@@ -1,12 +1,12 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Chad",
+      "id": "Q657"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q106573129",
+      "start": "2021-04-20",
+      "parent": "Q5589195"
     },
     "source": {
         "url":   "XXX",
@@ -16,5 +16,5 @@
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/chad-ministers"
 }
