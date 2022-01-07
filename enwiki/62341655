@@ -1,0 +1,78 @@
+{
+  "title": "Achta Djibrine Sy",
+  "pageID": 62341655,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Government ministers of Chad"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Achta Djibrine Sy (born October 28, 1962) is a Chad peace activist who became a government Minister of Commerce of Industry in 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chad"
+                },
+                {
+                  "text": "a government",
+                  "type": "internal",
+                  "page": "Politics of Chad"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Achta Djibrine Sy"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Achta Djibrine Sy"
+          },
+          "image": {
+            "text": "Achta Djibrine Sy.jpg"
+          },
+          "caption": {
+            "text": "in 2019"
+          },
+          "birth_date": {
+            "text": "October 28, 1962"
+          },
+          "birth_place": {
+            "text": "Chad"
+          },
+          "known_for": {
+            "text": "Ministre du commerce,de l'industrie et de la promotion du secteur privé for Chad"
+          },
+          "occupation": {
+            "text": "membre de la société civile"
+          },
+          "children": {
+            "text": "06",
+            "number": 6
+          },
+          "nationality": {
+            "text": "Chad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chad"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
