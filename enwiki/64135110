@@ -1,0 +1,60 @@
+{
+  "title": "Banata Tchale Sow",
+  "pageID": 64135110,
+  "categories": [
+    "Living people",
+    "Chadian economists",
+    "Government ministers of Chad",
+    "Chadian women in politics",
+    "Women economists",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Banata Tchale Sow is a Chadian economist and politician.",
+              "links": [
+                {
+                  "text": "Chadian",
+                  "type": "internal",
+                  "page": "Demographics of Chad"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Banata Tchale Sow"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2020",
+          "template": "use mdy dates"
+        },
+        {
+          "description": "Chadian politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2020",
+          "template": "orphan"
+        },
+        {
+          "list": [
+            "Banata Tchale Sow"
+          ],
+          "date": "May 2020",
+          "template": "expand french"
+        }
+      ]
+    }
+  ]
+}
