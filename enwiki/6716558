@@ -1,173 +1,19 @@
 {
-  "title": "Albert Pahimi Padacké",
-  "pageID": 6716558,
-  "categories": [
-    "Living people",
-    "1966 births",
-    "People from Mayo-Kebbi Ouest Region",
-    "Heads of government of Chad",
-    "Government ministers of Chad",
-    "Members of the National Assembly (Chad)",
-    "National Rally for Democracy in Chad politicians",
-    "University of N'Djamena alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Albert Pahimi Padacké (ألبر بهيمي بدكي, born 15 November 1966) is a Chadian politician who is the current Prime Minister of Chad since 26 April 2021.",
-              "links": [
-                {
-                  "text": "Prime Minister of Chad",
-                  "type": "internal",
-                  "page": "List of prime ministers of Chad"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Albert Pahimi Padacké"
-                ]
-              }
-            },
-            {
-              "text": "He was formerly Prime Minister from 2016 to 2018, when he resigned and was not replaced."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "17th and current Prime Minister of Chad since 2021",
-          "template": "short description"
-        },
-        {
-          "year": "1966",
-          "month": "11",
-          "day": "15",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Albert Pahimi Padacké"
-          },
-          "native_name": {
-            "text": "ألبر بهيمي بدكي"
-          },
-          "image": {
-            "text": "Albert Pahimi Padacké.jpg"
-          },
-          "office": {
-            "text": "Prime Minister of Chad",
-            "links": [
-              {
-                "text": "Prime Minister of Chad",
-                "type": "internal",
-                "page": "List of prime ministers of Chad"
-              }
-            ]
-          },
-          "president": {
-            "text": "Mahamat Déby Itno",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahamat Déby Itno"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "26 April 2021"
-          },
-          "predecessor": {
-            "text": "Position re-established",
-            "formatting": {
-              "italic": [
-                "Position re-established"
-              ]
-            }
-          },
-          "successor": {
-            "text": "Incumbent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Incumbent"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Idriss Déby",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Idriss Déby"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "15 February 2016"
-          },
-          "term_end2": {
-            "text": "4 May 2018"
-          },
-          "predecessor2": {
-            "text": "Kalzeubet Pahimi Deubet",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kalzeubet Pahimi Deubet"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Position abolished",
-            "formatting": {
-              "italic": [
-                "Position abolished"
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "November 15, 1966"
-          },
-          "birth_place": {
-            "text": "Gouin, [[French Equatorial Africa|French Equatorial\nAfrica]] (now Chad)",
-            "links": [
-              {
-                "text": "Gouin",
-                "type": "internal",
-                "page": "Pala, Chad"
-              }
-            ]
-          },
-          "party": {
-            "text": "National Rally for Democracy",
-            "links": [
-              {
-                "text": "National Rally for Democracy",
-                "type": "internal",
-                "page": "National Rally for Democracy in Chad"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of N'Djamena",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of N'Djamena"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Albert Pahimi Padacké",
+  "native_name": "ألبر بهيمي بدكي",
+  "image": "Albert Pahimi Padacké.jpg",
+  "office": "Prime Minister of Chad",
+  "president": "Mahamat Déby Itno",
+  "term_start": "26 April 2021",
+  "predecessor": "Position re-established",
+  "successor": "Incumbent",
+  "president2": "Idriss Déby",
+  "term_start2": "15 February 2016",
+  "term_end2": "4 May 2018",
+  "predecessor2": "Kalzeubet Pahimi Deubet",
+  "successor2": "Position abolished",
+  "birth_date": "November 15, 1966",
+  "birth_place": "Gouin, [[French Equatorial Africa|French Equatorial\nAfrica]] (now Chad)",
+  "party": "National Rally for Democracy",
+  "alma_mater": "University of N'Djamena"
 }
