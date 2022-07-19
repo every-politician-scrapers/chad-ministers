@@ -1,0 +1,803 @@
+{
+  "title": "Mahamat Déby",
+  "pageID": 39073394,
+  "categories": [
+    "Living people",
+    "1984 births",
+    "Heads of state of Chad",
+    "Generals",
+    "Chadian military leaders",
+    "Sons of national leaders",
+    "People from Hadjer-Lamis Region",
+    "Chadian anti-communists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mahamat Idriss Déby Itno (محمد إدريس ديبي إتنو; born 1 January 1984), also known as Mahamat Kaka, is a Chadian army general.",
+              "links": [
+                {
+                  "text": "Chadian",
+                  "type": "internal",
+                  "page": "Chad"
+                },
+                {
+                  "text": "army general",
+                  "type": "internal",
+                  "page": "army general"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mahamat Idriss Déby Itno",
+                  "Mahamat Kaka"
+                ]
+              }
+            },
+            {
+              "text": "He is the president of the Transitional Military Council.",
+              "links": [
+                {
+                  "text": "president",
+                  "type": "internal",
+                  "page": "list of heads of state of Chad"
+                },
+                {
+                  "text": "Transitional Military Council",
+                  "type": "internal",
+                  "page": "Transitional Military Council (Chad)"
+                }
+              ]
+            },
+            {
+              "text": "He is the son of the late Chadian President Idriss Déby.",
+              "links": [
+                {
+                  "text": "Chadian",
+                  "type": "internal",
+                  "page": "Chad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Idriss Déby"
+                }
+              ]
+            },
+            {
+              "text": "He gained power as the acting President of Chad on 20 April 2021 when his father, Idriss Déby died in action while commanding troops in the Northern Chad offensive.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Idriss Déby"
+                },
+                {
+                  "text": "Northern Chad offensive",
+                  "type": "internal",
+                  "page": "2021 Northern Chad offensive"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as the second in-command of the military for the Chadian Intervention in Northern Mali (FATIM).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chadian Intervention in Northern Mali"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Military leader of Chad since 2021",
+          "template": "short description"
+        },
+        {
+          "df": "yes",
+          "year": "1984",
+          "month": "1",
+          "day": "1",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Chad"
+          ],
+          "template": "army"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "General"
+              }
+            ]
+          },
+          "name": {
+            "text": "Mahamat Déby"
+          },
+          "native_name": {
+            "text": "محمد ديبي"
+          },
+          "native_name_lang": {
+            "text": "ar"
+          },
+          "image": {
+            "text": "Participation of Ursula von der Leyen, President of the European Commission, in the 6th European Union Africa Union Summit (cropped).jpg"
+          },
+          "caption": {
+            "text": "Déby in 2022"
+          },
+          "office": {
+            "text": "President of the Transitional Military Council",
+            "links": [
+              {
+                "text": "President of the Transitional Military Council",
+                "type": "internal",
+                "page": "List of heads of state of Chad"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Albert Pahimi Padacké",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Albert Pahimi Padacké"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Idriss Déby (as President of Chad) (father)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Idriss Déby"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "20 April 2021"
+          },
+          "birth_date": {
+            "text": "January 1, 1984"
+          },
+          "father": {
+            "text": "Idriss Déby",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Idriss Déby"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Massakory, Chad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Massakory"
+              },
+              {
+                "type": "internal",
+                "page": "Chad"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Three wives, including Dahabaya Oumar Souni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dahabaya Oumar Souni"
+              }
+            ]
+          },
+          "nickname": {
+            "text": "Kaka"
+          },
+          "allegiance": {
+            "text": "🇹🇩 Chad",
+            "links": [
+              {
+                "text": "Chad",
+                "type": "internal",
+                "page": "chad"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Chad-Army-OF-9.svg General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "General"
+              }
+            ]
+          },
+          "unit": {
+            "text": "Third Armoured Brigade Fifth Air Brigade Free Arab Volountiers"
+          },
+          "battles": {
+            "text": "Chadian Civil War (2005–2010)\n*Battle of Am Dam\nMali War\n*Battle of Ifoghas\n*Tighârghar\nInsurgency in Northern Chad\n*2021 Northern Chad offensive",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chadian Civil War (2005–2010)"
+              },
+              {
+                "type": "internal",
+                "page": "Battle of Am Dam"
+              },
+              {
+                "type": "internal",
+                "page": "Mali War"
+              },
+              {
+                "type": "internal",
+                "page": "Battle of Ifoghas"
+              },
+              {
+                "text": "Tighârghar",
+                "type": "internal",
+                "page": "Battle of Tigharghar"
+              },
+              {
+                "type": "internal",
+                "page": "Insurgency in Northern Chad"
+              },
+              {
+                "text": "2021 Northern Chad offensive",
+                "type": "internal",
+                "page": "2021 Northern Chad offensive"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "PORTRAIT",
+          "url": "https://presidence.td/portrait/",
+          "website": "Présidence de la République du Tchad",
+          "access-date": "23 April 2021",
+          "language": "fr-FR",
+          "date": "20 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.trust.org/item/20210420102953-f2l4n/",
+          "title": "Idriss Deby's son Kaka named interim head of state, says army spokesman",
+          "agency": "Reuters",
+          "date": "April 20, 2021",
+          "accessdate": "April 22, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biography of the President of the Transitional Military Council",
+          "url": "https://presidence.td/le-president/",
+          "website": "Presidency of the Republic of Chad",
+          "access-date": "10 May 2022",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2021/4/20/chads-president-deby-has-died-of-injuries",
+          "title": "Chad President Idriss Deby dies visiting front-line troops: Army",
+          "website": "Al Jazeera",
+          "date": "April 20, 2021",
+          "accessdate": "April 20, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0
+    },
+    {
+      "title": "Family",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mahamat Déby is polygamous and has three wives.",
+              "links": [
+                {
+                  "text": "polygamous",
+                  "type": "internal",
+                  "page": "polygamous"
+                }
+              ]
+            },
+            {
+              "text": "His first wife is an ethnic Zaghawa woman.",
+              "links": [
+                {
+                  "text": "Zaghawa",
+                  "type": "internal",
+                  "page": "Zaghawa people"
+                }
+              ]
+            },
+            {
+              "text": "In 2010, Déby married his second wife, a Central African woman and the daughter of Abakar Sabon, a former Central African Republic government minister, advisor to Michel Djotodia, and leader of the Movement of Central African Liberators for Justice rebel group.",
+              "links": [
+                {
+                  "text": "Central African",
+                  "type": "internal",
+                  "page": "Central African Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abakar Sabon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central African Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Michel Djotodia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Movement of Central African Liberators for Justice"
+                }
+              ]
+            },
+            {
+              "text": "It is believed that Déby and his second wife have five children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mahamat Déby's third wife, Dahabaya Oumar Souni, is a journalist and media advisor who is considered the First Lady of Chad.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dahabaya Oumar Souni"
+                },
+                {
+                  "text": "media advisor",
+                  "type": "internal",
+                  "page": "media advisor"
+                }
+              ]
+            },
+            {
+              "text": "Souni worked closely with her late father-in-law, President Idriss Déby, and was promoted to director of public relations for the office of the presidency from December 2019 until his death.",
+              "links": [
+                {
+                  "text": "public relations",
+                  "type": "internal",
+                  "page": "public relations"
+                }
+              ]
+            },
+            {
+              "text": "In May 2021, Dahabaya Oumar Souni was appointed as media advisor to the presidency of the Transitional Military Council and now works alongside her husband, President Mahamat Déby, as a member of his group of technical advisors.",
+              "links": [
+                {
+                  "text": "Transitional Military Council",
+                  "type": "internal",
+                  "page": "Transitional Military Council (Chad)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Tchad: voici qui est la nouvelle première dame du pays",
+          "url": "https://www.camerounweb.com/CameroonHomePage/africa/Tchad-voici-qui-est-la-nouvelle-premi-re-dame-du-pays-593080",
+          "work": "CamerounWeb",
+          "date": "2021-04-26",
+          "access-date": "2022-06-09",
+          "archive-url": "https://web.archive.org/web/20210803145024/https://www.camerounweb.com/CameroonHomePage/africa/Tchad-voici-qui-est-la-nouvelle-premi-re-dame-du-pays-593080",
+          "archive-date": "2021-08-03",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tchad: voici Dahabay oumar Souni, la communicante et 3è épouse du président du CMT",
+          "url": "https://www.camerounweb.com/CameroonHomePage/africa/Tchad-voici-Dahabay-oumar-Souni-la-communicante-et-3-pouse-du-pr-sident-du-CMT-596158",
+          "work": "CamerounWeb",
+          "date": "2021-05-08",
+          "access-date": "2022-06-09",
+          "archive-url": "https://web.archive.org/web/20220609122800/https://www.camerounweb.com/CameroonHomePage/africa/Tchad-voici-Dahabay-oumar-Souni-la-communicante-et-3-pouse-du-pr-sident-du-CMT-596158",
+          "archive-date": "2022-05-09",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tchad: le président du CMT s'entoure d'une vingtaine de conseillers techniques",
+          "url": "https://www.journaldutchad.com/tchad-le-president-du-cmt-sentoure-dune-vingtaine-de-conseillers-techniques/",
+          "work": "Journal du Tchad",
+          "date": "2021-05-17",
+          "access-date": "2022-06-11",
+          "archive-url": "https://web.archive.org/web/20210620035424/https://www.journaldutchad.com/tchad-le-president-du-cmt-sentoure-dune-vingtaine-de-conseillers-techniques/",
+          "archive-date": "2021-06-20",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Présidence de la République du Tchad: Le Secrétariat Général de la Présidence",
+          "url": "https://presidence.td/le-secretariat-general/",
+          "work": "Office of the President of Chad",
+          "access-date": "2022-06-09",
+          "archive-url": "https://web.archive.org/web/20220511232644/https://presidence.td/le-secretariat-general/",
+          "archive-date": "2022-05-11",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Military career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mahamat Déby first enrolled at the Joint Grouping of military schools in Chad."
+            },
+            {
+              "text": "He subsequently received training in France, at the military school of Aix-en-Provence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aix-en-Provence"
+                }
+              ]
+            },
+            {
+              "text": "Upon his return he was enrolled in second promotion of semi direct of the school of officer inter arme and later was appointed to the service branch for the Security of State Institutions (SERS), as a deputy commander of the groupement of infenterie."
+            },
+            {
+              "text": "His first combat experience took place in April 2006 when rebels attacked the capital city of Chad and later participated in combat in eastern Chad along with General Abu Bakr al Said, then director of gendarmery, Mahamat was given the rank of major afterward."
+            },
+            {
+              "text": "He led forces when he took part in the command of Chadian forces during the Battle of Am Dam, where his army defeated the rebels.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Battle of Am Dam"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following his victory, he was appointed in command of the armored squadrons and bodyguards of the SERS."
+            },
+            {
+              "text": "In January 2013, he was appointed second in command of the Chadian special forces in Mali under general Oumar Bikimo."
+            },
+            {
+              "text": "On 22 February, he led his army against rebels in the Adrar al-Ifoghas mountains in Northern Mali leading to the Battle of al-Ifoghas.",
+              "links": [
+                {
+                  "text": "Adrar al-Ifoghas",
+                  "type": "internal",
+                  "page": "Adrar des Ifoghas"
+                },
+                {
+                  "text": "Battle of al-Ifoghas",
+                  "type": "internal",
+                  "page": "Battle of Ifoghas"
+                }
+              ]
+            },
+            {
+              "text": "They eliminated a rebel base said to be of \"significant importance\", inflicting heavy losses upon the rebels but also losing twenty-six men in the process, including Abdel Aziz Hassane Adam, a commander of special forces."
+            },
+            {
+              "text": "Mahamat took full command of the FATIM and has since been leading operations against rebels in the North."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Chad: Slain Deby’s son Mahamat Deby Itno heads military council",
+          "url": "https://www.pmnewsnigeria.com/2021/04/20/chad-slain-debys-son-mahamat-deby-itno-heads-military-council/",
+          "access-date": "20 April 2021",
+          "work": "P.M. News",
+          "date": "20 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Le général Mahamat Idriss Déby Itno, 29 ans et fils d’Idriss Deby, commande la force tchadienne au Mali",
+          "url": "http://bamada.net/le-general-mahamat-idriss-deby-itno-29-ans-et-fils-didriss-deby-commande-la-force-tchadienne-au-mali",
+          "website": "bamada.net",
+          "date": "16 February 2013",
+          "accessdate": "20 June 2013",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "President of the Transitional Military Council",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After Mahamat's father, Idriss Déby, died at the hands of FACT on 20 April 2021, the military announced that the elected government and National Assembly have been dissolved and that a Transitional Military Council led by Mahamat will lead the nation for 18 months.",
+              "links": [
+                {
+                  "text": "died",
+                  "type": "internal",
+                  "page": "Idriss Déby",
+                  "anchor": "Death"
+                },
+                {
+                  "text": "FACT",
+                  "type": "internal",
+                  "page": "Front for Change and Concord in Chad"
+                },
+                {
+                  "text": "military",
+                  "type": "internal",
+                  "page": "Military of Chad"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Chad)"
+                },
+                {
+                  "text": "Transitional Military Council",
+                  "type": "internal",
+                  "page": "Transitional Military Council (Chad)"
+                }
+              ]
+            },
+            {
+              "text": "A new charter replaced the Constitution of Chad, making Mahamat the interim President and head of the armed forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Constitution of Chad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Some political actors within Chad have labeled the installing of the transitional military government a \"coup\", as the constitutional provisions regarding the filling of a presidential vacancy were not followed."
+            },
+            {
+              "text": "Namely, according to the constitution, the President of the National Assembly, Haroun Kabadi, should have been named Acting President after president Idriss Déby's death, and an early election called within a period of no less than 45 and no more than 90 days from the time of the vacancy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Haroun Kabadi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Idriss Déby"
+                }
+              ]
+            },
+            {
+              "text": "However, one of Chad's main foreign policy allies, France, has defended the development as necessary, citing the \"exceptional circumstances\" caused by the rebellion.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "France"
+                }
+              ]
+            },
+            {
+              "text": "Furthermore, the FACT rebels have issued an open threat to the new government, stating that \"Chad is not a monarchy\" and vowing to continue fighting until they reach N'Djamena and depose Mahamat Déby from power.",
+              "links": [
+                {
+                  "text": "FACT",
+                  "type": "internal",
+                  "page": "Front for Change and Concord in Chad"
+                },
+                {
+                  "type": "internal",
+                  "page": "N'Djamena"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After initially refusing to negotiate with insurgent groups, Déby softened his stance in August 2021, proposing a national dialogue."
+            },
+            {
+              "text": "After his proposal was met with approval by rebel groups, talks between government and rebel representatives started two months later."
+            },
+            {
+              "text": "The national dialogue between Déby's government and the opposition was supposed to prepare the country for elections scheduled for the second half of 2022."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Chargé_d’affaires_a.i._David_Gilmour_meets_with_CMT_President.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Charg%C3%A9_d%E2%80%99affaires_a.i._David_Gilmour_meets_with_CMT_President.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Charg%C3%A9_d%E2%80%99affaires_a.i._David_Gilmour_meets_with_CMT_President.jpg",
+          "caption": "David Gilmour had the pleasure to exchange with Mahamat Déby Itno in 2021 to discuss U.S. support for a peaceful, timely, and civilian-led transition of power to a democratically elected government by October 2022.",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "title": "Chad's President Idriss Déby dies 'in clashes with rebels'",
+          "url": "https://www.bbc.com/news/world-africa-56815708",
+          "website": "BBC News",
+          "access-date": "20 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ramadane",
+          "first": "Madjiasra Nako, Mahamat",
+          "date": "April 21, 2021",
+          "title": "Chad in turmoil after Deby death as rebels, opposition challenge military",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/us-chad-deby-idUSKBN2C818G",
+          "access-date": "April 21, 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-africa-56830510",
+          "title": "Chad president's death: Rivals condemn 'dynastic coup'",
+          "work": "BBC News",
+          "accessdate": "April 22, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Chad's Constitution of 2018",
+          "url": "https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en",
+          "website": "constituteproject.org",
+          "publisher": "Constitute Project",
+          "archive-url": "https://web.archive.org/web/20210420130632/https://www.constituteproject.org/constitution/Chad_2018.pdf?lang=en",
+          "archive-date": "20 April 2021",
+          "language": "en",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.reuters.com/world/africa/france-defends-chad-military-takeover-needed-ensure-stability-2021-04-22/",
+          "title": "With eye on Islamist fight, France backs Chad military takeover",
+          "work": "Reuters",
+          "first": "John",
+          "last": "Irish",
+          "first2": "Tangi",
+          "last2": "Salaün",
+          "date": "April 22, 2021",
+          "accessdate": "April 22, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2021/4/21/who-are-chads-fact-rebels-and-what-are-their-goals",
+          "title": "Who are Chad’s FACT rebels and what are their goals?",
+          "work": "Al Jazeera",
+          "date": "April 21, 2021",
+          "accessdate": "April 22, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Chad Rebel Group FACT Says It's Willing to Join National Dialogue",
+          "url": "https://www.voanews.com/a/africa_chad-rebel-group-fact-says-its-willing-join-national-dialogue/6210076.html",
+          "work": "VOA",
+          "date": "28 August 2021",
+          "access-date": "27 December 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Kum",
+          "first1": "Peter",
+          "last2": "Chahed",
+          "first2": "Nadia",
+          "title": "Tchad: la junte engage des discussions avec les groupes rebelles et les partis de l'opposition",
+          "url": "https://www.aa.com.tr/fr/afrique/tchad-la-junte-engage-des-discussions-avec-les-groupes-rebelles-et-les-partis-de-lopposition/2406494",
+          "work": "AA",
+          "language": "French",
+          "date": "29 October 2021",
+          "access-date": "27 December 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Military of Chad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Military of Chad"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "list": [
+            "Mahamat Déby Itno"
+          ],
+          "template": "wikiquote"
+        },
+        {
+          "template": "presidents of chad"
+        },
+        {
+          "template": "heads of state of republics"
+        },
+        {
+          "template": "africa-mil-bio-stub"
+        },
+        {
+          "template": "chad-bio-stub"
+        }
+      ]
+    }
+  ]
+}
